@@ -4,7 +4,7 @@
 
 <h2>Project Description</h2>
 
-For this project, I am using CloudFormation to deploy a solution to 2 simple scenarios.
+For this project, I am using CloudFormation to deploy a solution to 2 simple scenarios. This project has been invaluable in getting me familiar with IaC.
 
 <img width="846" height="328" alt="image" src="https://github.com/user-attachments/assets/f9f133a1-a112-4424-8f95-9cd2e3b56cde" />
 
