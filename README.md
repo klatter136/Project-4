@@ -1,4 +1,4 @@
-<h1>CloudFormation IaaC Project</h1>
+<h1>CloudFormation IaC Project</h1>
 
 
 
