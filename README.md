@@ -6,7 +6,8 @@
 
 For this project, I am using CloudFormation to deploy a solution to 2 simple scenarios. This project has been invaluable in getting me familiar with IaC.
 
-<img width="846" height="328" alt="image" src="https://github.com/user-attachments/assets/f9f133a1-a112-4424-8f95-9cd2e3b56cde" />
+<img width="1185" height="543" alt="image" src="https://github.com/user-attachments/assets/69b14b54-b578-4ac5-a930-d586e0945af7" />
+
 
 For the first project iteration, I will create 3 EC2 Instances: one Bastion EC2 in the public subnet, and one EC2 in each application private subnet. 
 
